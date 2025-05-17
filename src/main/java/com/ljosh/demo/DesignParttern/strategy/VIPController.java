@@ -12,6 +12,11 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
+ * 方法论：
+ * 1. 逻辑抽象
+ * 2. 要实现具体的逻辑策略
+ * 3. 选择一个不同的策略
+ * 4. 调用策略具体的逻辑
  * <a href="https://www.bilibili.com/video/BV1HA7RzDEuz">原视频</a>
  *
  * @author joshlind
